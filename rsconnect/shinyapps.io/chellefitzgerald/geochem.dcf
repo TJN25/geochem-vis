@@ -1,0 +1,13 @@
+name: geochem
+title: geochem
+username:
+account: chellefitzgerald
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6603148
+bundleId: 6084813
+url: https://chellefitzgerald.shinyapps.io/geochem/
+when: 1657419107.50738
+lastSyncTime: 1657419107.50739
+asMultiple: FALSE
+asStatic: FALSE
